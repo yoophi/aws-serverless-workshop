@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaws_serverless_workshop=self.webpackChunkaws_serverless_workshop||[]).push([[159],{5134:function(s){s.exports=JSON.parse('{"allTagsPath":"/aws-serverless-workshop/blog/tags","slug":"/aws-serverless-workshop/blog/tags/hola","name":"hola","count":1,"permalink":"/aws-serverless-workshop/blog/tags/hola"}')}}]);

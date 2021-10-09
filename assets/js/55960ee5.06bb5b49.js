@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaws_serverless_workshop=self.webpackChunkaws_serverless_workshop||[]).push([[121],{8070:function(s){s.exports=[]}}]);
